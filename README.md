@@ -1,0 +1,1 @@
+This is a tool for finding the occurence of a specific motif in the amino acid sequence of a protein of interest. The specific example here is for locating a 4 amino acid LIR motif in the human LRRK2 protein but the strategy can be adapted to other uses by changing the relevant inputs.
